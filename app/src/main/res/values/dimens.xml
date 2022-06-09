@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_text_view_padding">16dp</dimen>
+    <dimen name="item_image_cardview_marginstart">8dp</dimen>
+    <dimen name="item_image_cardvier_corner_radius">4dp</dimen>
+    <dimen name="item_image_cardview_margin_top">16dp</dimen>
+    <dimen name="item_image_textview_padding">20dp</dimen>
+    <dimen name="item_image_imageview_layout_width">60dp</dimen>
+    <dimen name="item_image_imageview_layout_height">60dp</dimen>
+</resources>
